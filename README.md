@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aparna03dubey
+- 👋 Hi, I’m Aparna Dubey
 - 👀 I’m interested in open source contribution.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning Web Development.
 - 📫 My GitHub Id: aparna03dubey
 
 <!---
