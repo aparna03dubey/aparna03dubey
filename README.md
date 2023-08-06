@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Aparna Dubey
+- 👋 Hello, I’m Aparna Dubey.
 - 👀 I’m interested in open source contribution and Competetive programming.
 - 🌱 I’m currently learning Web Development.
 - 📫 My GitHub Id: aparna03dubey
