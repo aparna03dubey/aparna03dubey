@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Aparna Dubey
-- 👀 I’m interested in open source contribution.
+- 👀 I’m interested in open source contribution and Competetive programming.
 - 🌱 I’m currently learning Web Development.
 - 📫 My GitHub Id: aparna03dubey
 - :computer: My Technical skills- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
