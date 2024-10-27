@@ -30,7 +30,7 @@ This is the link to view your stats-----------
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aparna03dubey&show_icons=true&theme=radical)
 
-
+<!-- This badge tracks the number of visitors to my GitHub profile page -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aparna03dubey.aparna03dubey)
 
 <!--[![@aparna_dubey03's Holopin board](https://holopin.me/aparna_dubey03)](https://holopin.io/@aparna_dubey03)
